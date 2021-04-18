@@ -11,3 +11,70 @@ Instructor: [Krishna Karra](https://www.linkedin.com/in/krishna-karra-8765811b/)
 > Perform image segmentation to classify land. Perform a thorough preprocessing stage on tf.dataset objects to normalize, augment, and manipulate input. 
 ### 3. Final Project 
 > Independent student choice
+
+## Topic Breakdown by Week:
+### 1. Introduction to Raster and Vector Data
+* Vector vs. raster data 
+* Projections, coordinate reference systems and scale 
+* Modern day cartography, what goes into making a map? Different ways to visualize geospatial data 
+* Introduction to GDAL, shapely, geopandas, mapshaper 
+### 2. L8 & S2, indices, google earth engine, & composites
+* Landsat and Sentinel Satelites
+* Bands
+* Visualizing non-RGB bands
+* NDVI
+* cloud masking
+### 3. Land cover classification 
+* How to create good land cover maps
+* UNet
+* Land cover classification workflow
+### 4. Fires 
+* Capturing burn scars
+* NBR
+### 5. Geospatial Image Processing I 
+* OpenCV
+* Blurring filters
+* Morphological transformations
+* Edge Detection
+* Flood mappung using SAR
+### 6. Geospatial Image Processing II
+* Machine learning
+* Deep learning
+* VIIRS and Nighttime Lights (NTL)
+### 7. Synthetic Aperture Radar (SAR)
+* Introduction to SAR
+* How SAR works
+* Constraints of SAR
+* SAR image formation
+* Imaging modes
+* Interferometric SAR
+* Polarization
+### 8. Deforestation
+* Monitoring deforestation with SAR
+* Bagged trees algorithm
+* Coherence
+* Methods to track deforestation
+### 9. Urban Heat Islands
+* Monitoring urban heat using TIR
+### 10. Flood Mapping
+* [cloud-to-street](https://cloudtostreet.info/)
+* Machine learning for flood mapping
+* CNNs are a huge improvement
+* Importance of predicting under clouds
+* Combining satellite data and other sources
+* How to formulate a remote sensing project?
+### 11. Semantic Segmentation
+* The reason for the UNet
+* SparseCategoricalEntropy
+* Softmax
+* Image segmentation
+* Convolutional neural networks
+* Encoder/Decoder
+* Transposed convolutions
+* Dilated convolutions
+* Loss functions
+* Choosing a learning rate
+* Regularization
+* Normalization
+### 12. NA
+### 13. NA
