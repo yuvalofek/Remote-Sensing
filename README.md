@@ -5,9 +5,9 @@ This course focuses on the application of remotely sensed geospatial datasets to
 Instructor: [Krishna Karra](https://www.linkedin.com/in/krishna-karra-8765811b/)
 
 ## Projects:
-### 1. GeoTIFF manipulation and Dataset Aggregation
+### 1. [GeoTIFF manipulation and Dataset Aggregation](https://github.com/yuvalofek/Remote-Sensing/blob/main/Reprojections%26ImageComposites.ipynb)
 > Re-project, resample, and change the spatial extent of GeoTIFFs. Aggregate different metrics over a dataset of GeoTIFFs and write out the results
-### 2. Land Cover Classification
+### 2. [Land Cover Classification](https://github.com/yuvalofek/Remote-Sensing/blob/main/Land_Cover_Classification.ipynb)
 > Perform image segmentation to classify land. Perform a thorough preprocessing stage on tf.dataset objects to normalize, augment, and manipulate input. 
 ### 3. Final Project 
 > Independent student choice
@@ -24,7 +24,7 @@ Instructor: [Krishna Karra](https://www.linkedin.com/in/krishna-karra-8765811b/)
 * Visualizing non-RGB bands
 * NDVI
 * cloud masking
-### 3. Land cover classification 
+### 3. Land cover classification
 * How to create good land cover maps
 * UNet
 * Land cover classification workflow
