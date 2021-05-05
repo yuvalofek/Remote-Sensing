@@ -42,7 +42,7 @@ Instructor: [Krishna Karra](https://www.linkedin.com/in/krishna-karra-8765811b/)
 * Machine learning
 * Deep learning
 * VIIRS and Nighttime Lights (NTL)
-### 7. Synthetic Aperture Radar (SAR)
+### 7. Synthetic Aperture Radar (SAR) - Guest Lecture with Descartes Labs Researcher
 * Introduction to SAR
 * How SAR works
 * Constraints of SAR
@@ -50,14 +50,14 @@ Instructor: [Krishna Karra](https://www.linkedin.com/in/krishna-karra-8765811b/)
 * Imaging modes
 * Interferometric SAR
 * Polarization
-### 8. Deforestation
+### 8. Deforestation - Guest Lecture with Descartes Labs Researcher
 * Monitoring deforestation with SAR
 * Bagged trees algorithm
 * Coherence
 * Methods to track deforestation
 ### 9. Urban Heat Islands
 * Monitoring urban heat using TIR
-### 10. Flood Mapping
+### 10. Flood Mapping - Guest Lecture with a Hydrologist
 * [cloud-to-street](https://cloudtostreet.info/)
 * Machine learning for flood mapping
 * CNNs are a huge improvement
@@ -77,5 +77,18 @@ Instructor: [Krishna Karra](https://www.linkedin.com/in/krishna-karra-8765811b/)
 * Choosing a learning rate
 * Regularization
 * Normalization
-### 12. NA
-### 13. NA
+### 12. Mini Project
+* Visualizing COVID affects on Wuhan
+### 13. Cartography and Data Visualization - Guest Lecture by New York Times cartographer
+* Why maps are important
+* QGIS
+* Creating maps using QGIS
+### 14. Review of Problem Set 2
+* Tensorflow workflow:
+  * tf.dataset
+  * Segmentation weigthing
+  * Preprocessing & normalization
+  * Models
+  * Model evaluation
+* shapely
+### 15. Final Project Presentations
