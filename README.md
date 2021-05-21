@@ -79,7 +79,7 @@ Instructor: [Krishna Karra](https://www.linkedin.com/in/krishna-karra-8765811b/)
 * Normalization
 ### 12. Mini Project
 * Visualizing COVID affects on Wuhan
-### 13. Cartography and Data Visualization - Guest Lecture by New York Times cartographer
+### 13. Cartography and Data Visualization - Guest Lecture by New York Times Cartographer
 * Why maps are important
 * QGIS
 * Creating maps using QGIS
