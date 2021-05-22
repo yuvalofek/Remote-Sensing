@@ -9,7 +9,7 @@ Instructor: [Krishna Karra](https://www.linkedin.com/in/krishna-karra-8765811b/)
 > Re-project, resample, and change the spatial extent of GeoTIFFs. Aggregate different metrics over a dataset of GeoTIFFs and write out the results
 ### 2. [Land Cover Classification](https://github.com/yuvalofek/Remote-Sensing/blob/main/Land_Cover_Classification.ipynb)
 > Perform image segmentation to classify land. Perform a thorough preprocessing stage on tf.dataset objects to normalize, augment, and manipulate input. 
-### 3. [Final Project](https://github.com/rlee360/PLaTYPI)
+### 3. [Final Project](https://github.com/yuvalofek/SPACY)
 > Student choice
 > Created a system to predict places to plant crops by the likelyhood of increasing aggregate yield
 
